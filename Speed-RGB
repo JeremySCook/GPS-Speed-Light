@@ -1,3 +1,6 @@
+//Speed changes RGB light color
+//By Jeremy S. Cook 3/29/2019
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 #include <Adafruit_NeoPixel.h>
